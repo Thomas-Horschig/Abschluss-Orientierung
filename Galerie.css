@@ -1,0 +1,32 @@
+
+header a {
+    display: flex;
+    color: rgb(126, 233, 104);
+    text-decoration: none;
+    justify-content: center;
+    font-size: 50px;
+    color: darkorchid;
+
+}    
+body {
+    background-image: url(images/images.jpg);
+    background-size: 554px;
+}
+body main section video {
+    display: flex;
+    height: 300px;
+    margin: 150px;
+}
+body h1 {
+    color: aqua;
+
+}
+main div {
+    display: flex;
+    justify-content: space-between;
+    height: 250px;
+    }
+div:hover {
+    transform: rotate(360deg);
+    transition: all 2s;
+}

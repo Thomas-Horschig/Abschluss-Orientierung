@@ -1,0 +1,85 @@
+body {
+    background-image: linear-gradient(rgb(49, 249, 49),rgb(84, 200, 238));
+    background-size: 200px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    background-image: url(Images/Hintergrundbild-Überschrift.png);
+    background-size: cover;
+    height: 50vh;
+    color: rgb(245, 240, 246);
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+  header ul li {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    font-size: 20px;
+    margin: 30px;
+}
+  header ul a {
+    color: rgb(126, 233, 104);
+    text-decoration: none;
+}
+main div article h3 {
+    display: flex;
+    justify-content: center;
+    color: cadetblue;
+    font-size: 50px;
+}
+main div article ul {
+    
+    list-style: none;
+    border: 1px solid black;
+    margin: 20px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI' ,'Open Sans', 'Helvetica Neue', sans-serif;
+    background-image:linear-gradient(lightyellow,lightblue);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-size: 20px;
+}
+main div h1 {
+    border: 2px solid black;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    background-color: burlywood;
+}
+main div section {
+    display: flex;
+    color: rgb(44, 3, 98);
+    margin: 30px;
+    padding: 20px;
+}
+main div h2 {
+    color: rgb(59, 3, 245);
+}    
+main div section p {
+    display: flex;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+main div footer p {
+    display: flex;
+    color:rgb(247, 246, 248);
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main h1 {
+    display: flex;
+    justify-content: center;
+    color: rgb(250, 4, 4);
+    font-size: 60px;
+}
+
+
+
+
+                             
+
+                
